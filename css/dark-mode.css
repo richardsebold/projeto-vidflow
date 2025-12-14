@@ -1,0 +1,29 @@
+body.dark-mode {
+    background-color: var(--azul-profundo);
+    color: var(--branco);
+}
+
+.dark-mode .cabecalho__container,
+.dark-mode .menu__container,
+.dark-mode .superior__secao__container {
+    background-color: var(--azul-profundo);
+    color: var(--branco);
+}
+
+.dark-mode .superior__item {
+    background-color: var(--cinza-escuro);
+    color: var(--branco);
+}
+
+.dark-mode .pesquisar__input {
+    background-color: var(--azul-profundo);
+}
+
+.dark-mode .descricao-video .titulo-video,
+.dark-mode .descricao-video .titulo-canal {
+    color: var(--branco);
+}
+
+.dark-mode .superior__item:hover {
+    background-color: var(--cinza-medio);
+}

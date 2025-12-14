@@ -15,7 +15,6 @@
 
 body {
     font-family: Roboto, Arial, Helvetica, sans-serif;
-    background-color: var(--branco);
     position: relative;
     width: 100%;
     height: 100vh;
@@ -65,7 +64,6 @@ body {
 
 .cabecalho__audio {
     border: 0px;
-    background-color: var(--branco);
 }
 
 .cabecalho__videos {
@@ -238,7 +236,6 @@ body {
 
 .superior__secao__container {
     height: 63px;
-    color: var(--branco);
     font-size: 16px;
     background-color: var(--branco);
     padding: 0 20px;
